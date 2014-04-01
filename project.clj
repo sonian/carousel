@@ -14,6 +14,7 @@
 
 (defproject sonian/carousel "1.0.4"
   :description "A simple module system."
+  :url "https://github.com/sonian/carousel"
   :license {:name "Apache 2.0"
             :url "http://www.apache.org/licenses/LICENSE-2.0.html"}
   :dependencies [[org.clojure/clojure "1.5.1"]
