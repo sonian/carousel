@@ -12,7 +12,7 @@
 ;;   See the License for the specific language governing permissions and
 ;;   limitations under the License.
 
-(defproject carousel "1.0.4"
+(defproject sonian/carousel "1.0.4"
   :description "A simple module system."
   :license {:name "Apache 2.0"
             :url "http://www.apache.org/licenses/LICENSE-2.0.html"}
