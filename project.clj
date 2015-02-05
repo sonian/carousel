@@ -12,7 +12,7 @@
 ;;   See the License for the specific language governing permissions and
 ;;   limitations under the License.
 
-(defproject sonian/carousel "1.0.4"
+(defproject sonian/carousel "1.0.5-SNAPSHOT"
   :description "A simple module system."
   :url "https://github.com/sonian/carousel"
   :license {:name "Apache 2.0"
